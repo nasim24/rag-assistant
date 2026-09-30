@@ -1,0 +1,4 @@
+pypdf 
+numpy
+requests
+python-dotenv
