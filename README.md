@@ -1,6 +1,9 @@
 # RAG Assistant
 
 A Retrieval-Augmented Generation (RAG) system built in progressive phases, from a pure Python implementation to a production-ready framework-based solution.
+## Chatgpt prompt history 
+
+https://chatgpt.com/share/6abe34c4-6c98-83e8-80f2-7e83e02c2b95
 
 ## Project Structure
 
